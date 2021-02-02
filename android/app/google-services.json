@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "606658864033",
+    "project_id": "test-last-flutter-chat",
+    "storage_bucket": "test-last-flutter-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606658864033:android:a3df22557c642b8d43a1e0",
+        "android_client_info": {
+          "package_name": "com.umuttokoglu.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606658864033-uicqejqku36si4vjiiqsliob1dh01q9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-rKva7fGQa_aALgK3GY1tPNurvooSGj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606658864033-uicqejqku36si4vjiiqsliob1dh01q9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "606658864033-j0r31iu6ufestua10sem92o15hbe841p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.umuttokoglu.firebasechat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
